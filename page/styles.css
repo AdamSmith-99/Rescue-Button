@@ -3,7 +3,7 @@ body {
  background-size: cover;
 }
 
-h1,p {
+h1,p, img {
 	margin: auto;
 	width: 20vw;
 	text-align: center;
@@ -11,4 +11,8 @@ h1,p {
 	border: 5px solid rgb(100, 149, 237);
 	background-color: white;
 	border-radius: 25px;
+}
+
+img{
+	display: block;
 }

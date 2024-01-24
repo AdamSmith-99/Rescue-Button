@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Rescue Button",
-  "version": "1.3",
+  "version": "1.4",
   "description": "Close all tabs and replace with a safe and friendly message.",
   "background": {
     "service_worker": "background.js"
